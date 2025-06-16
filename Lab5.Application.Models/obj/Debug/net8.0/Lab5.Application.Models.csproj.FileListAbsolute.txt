@@ -1,0 +1,15 @@
+C:\itmo\c#\kv1sidisi\src\Lab5.Application.Models\bin\Debug\net8.0\Lab5.Application.Models.deps.json
+C:\itmo\c#\kv1sidisi\src\Lab5.Application.Models\bin\Debug\net8.0\Lab5.Application.Models.dll
+C:\itmo\c#\kv1sidisi\src\Lab5.Application.Models\bin\Debug\net8.0\Lab5.Application.Models.pdb
+C:\itmo\c#\kv1sidisi\src\Lab5.Application.Models\bin\Debug\net8.0\Lab5.Application.Models.xml
+C:\itmo\c#\kv1sidisi\src\Lab5.Application.Models\obj\Debug\net8.0\Lab5.Application.Models.csproj.AssemblyReference.cache
+C:\itmo\c#\kv1sidisi\src\Lab5.Application.Models\obj\Debug\net8.0\Lab5.Application.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\itmo\c#\kv1sidisi\src\Lab5.Application.Models\obj\Debug\net8.0\Lab5.Application.Models.AssemblyInfoInputs.cache
+C:\itmo\c#\kv1sidisi\src\Lab5.Application.Models\obj\Debug\net8.0\Lab5.Application.Models.AssemblyInfo.cs
+C:\itmo\c#\kv1sidisi\src\Lab5.Application.Models\obj\Debug\net8.0\Lab5.Application.Models.csproj.CoreCompileInputs.cache
+C:\itmo\c#\kv1sidisi\src\Lab5.Application.Models\obj\Debug\net8.0\Lab5.Application.Models.sourcelink.json
+C:\itmo\c#\kv1sidisi\src\Lab5.Application.Models\obj\Debug\net8.0\Lab5.Application.Models.dll
+C:\itmo\c#\kv1sidisi\src\Lab5.Application.Models\obj\Debug\net8.0\refint\Lab5.Application.Models.dll
+C:\itmo\c#\kv1sidisi\src\Lab5.Application.Models\obj\Debug\net8.0\Lab5.Application.Models.xml
+C:\itmo\c#\kv1sidisi\src\Lab5.Application.Models\obj\Debug\net8.0\Lab5.Application.Models.pdb
+C:\itmo\c#\kv1sidisi\src\Lab5.Application.Models\obj\Debug\net8.0\ref\Lab5.Application.Models.dll

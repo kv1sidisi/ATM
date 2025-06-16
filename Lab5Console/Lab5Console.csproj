@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Lab5.Application.Abstractions\Lab5.Application.Abstractions.csproj" />
+      <ProjectReference Include="..\Lab5.Application.Contracts\Lab5.Application.Contracts.csproj" />
+      <ProjectReference Include="..\Lab5.Application.Models\Lab5.Application.Models.csproj" />
+      <ProjectReference Include="..\Lab5.Application\Lab5.Application.csproj" />
+      <ProjectReference Include="..\Lab5.Infrastructure.DataAccess\Lab5.Infrastructure.DataAccess.csproj" />
+      <ProjectReference Include="..\Lab5.Presentation.Console\Lab5.Presentation.Console.csproj" />
+    </ItemGroup>
+
+</Project>
